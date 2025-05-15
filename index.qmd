@@ -1,11 +1,14 @@
 ---
-title: "temp_website"
+title: "Homepage"
 ---
 
-This is a Quarto website.
+My name is Chew Tze Han, I am currently studying in **Singapore Institute of Technology(SIT)** in year 1 trimester 3, pursuing a degree in **Applied Artificial Intelligence**.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+\
 
-```{r}
-1 + 1
-```
+
+::: {style="float:left; position: relative; top: 0px"}
+![](imgs/cat.jpeg){height="100px" style="margin-right: 10px; align: left"}
+:::
+
+One interesting thing about me is that I really like *cats*. Although I do not own one as my there are people in my family that are afraid of cats, I have many *cat soft toys* at home which I have collected over the years.

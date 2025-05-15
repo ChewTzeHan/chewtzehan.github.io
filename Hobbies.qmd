@@ -1,0 +1,17 @@
+---
+title: "Hobbies"
+format: html
+---
+
+Other than collecting cat soft toys, I tend to mainly spend my free time playing games and reading. I try keep track of both the books that I read and games that I finish playing.
+
+\
+
+A small snippet:
+
+| Type | Name | Date Finished |
+|------|------|---------------|
+| Book | Anemone in heat | May 10, 2025 |
+| Game | Persona 5 Royal | April 7, 2025 |
+| Book | Vexations of a Shut-In Vampire Princess | March 23, 2025 |
+| Game | Xenoblade Chronicles 2: Torna the golden country | January 10, 2025 |

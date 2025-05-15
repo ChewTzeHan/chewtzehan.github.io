@@ -1,0 +1,43 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+I have chosen to use ChatGPT due to its popularity and familiarity in using it to assist in past assignments. Additionally, github copilot is constantly active on RStudio and I take full advantage of its suggestions to help to complete code faster and more efficiently. 
+
+Although I did not use it explicitly for this assignment, I used it a fair bit for helping to complete the previous exercises during the lecture, namely for assisting in debugging or formatting issues. 
+
+### Example 1
+
+::: {.columns}
+::: {.column width="70%"}
+![](imgs/gpt_example1.png){.img-gpt}
+:::
+::: {.column width="30%"}
+Using ChatGPT to help with cleaning and formatting of styling.
+:::
+:::
+
+
+### Example 2
+::: {.columns}
+::: {.column width="70%"}
+![](imgs/gpt_example2.png){.img-gpt}
+:::
+::: {.column width="30%"}
+Using ChatGPT to help with opening a hyperlink in a new tab.
+:::
+:::
+
+
+
+The benefit of using these GenAI tools is helping to code faster due to the automatic suggestions by Copilot as well as the ability for ChatGPT to assist with debugging and formatting issues.
+
+\
+
+One of the challenges I faced using ChatGPT was its tendancy to attempt to use html formatting for helping to solve the issues that I was having rather than Quarto. As such, I had to specify that I wanted solutions in Quarto in order for it to provide the correct code.
+
+\
+
+I believe that going forward, the use of such GenAI tools will be beneficial to me in the long term as I will be able to use them effectively to both learn and produce more efficient code. 
+

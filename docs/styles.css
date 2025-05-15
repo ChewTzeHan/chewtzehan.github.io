@@ -1,1 +1,27 @@
 /* css styles */
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+h1,h2 {
+  font-size: 16pt;
+}
+h3,h4 {
+  font-size: 14pt;
+}
+
+.img-gpt {
+  width: 300px;
+  height: auto;
+  display: block;  /* Ensures it's treated as a block element */
+  margin: 0 auto;  /* Optional: centers the image horizontally */
+}
+
