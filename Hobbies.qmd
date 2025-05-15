@@ -17,3 +17,5 @@ A table showing my recent entries:
 | Game | Xenoblade Chronicles 2: Torna the golden country | January 10, 2025 |
 | Game | Don't starve Together | December 25, 2024 |
 | Game | Skullgirls | September 19, 2024 |
+
+{{< video https://www.youtube.com/watch?v=SKpSpvFCZRw width="600" height="400" >}}
