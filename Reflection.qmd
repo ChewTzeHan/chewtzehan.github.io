@@ -3,7 +3,7 @@ title: "Reflection on the use of GenAI"
 format: html
 ---
 
-I have chosen to use ChatGPT due to its popularity and familiarity in using it to assist in past assignments. Additionally, github copilot is constantly active on RStudio and I take full advantage of its suggestions to help to complete code faster and more efficiently. 
+I have chosen to use **ChatGPT** due to its popularity and familiarity in using it to assist in past assignments. Additionally, **Github Copilot** is constantly active on RStudio and I take full advantage of its suggestions to help to complete code faster and more efficiently. 
 
 Although I did not use it explicitly for this assignment, I used it a fair bit for helping to complete the previous exercises during the lecture, namely for assisting in debugging or formatting issues. 
 

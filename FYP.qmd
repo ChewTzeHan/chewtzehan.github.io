@@ -1,0 +1,23 @@
+---
+title: "FYP Project"
+---
+
+Previously, I was studying in Ngee Ann Polytechnic where I pursued a diploma in **Automation & Mechatronics Systems**.
+
+\
+
+My FYP was to construct and program a robot vehicle for use in a science lab. It's role was to collect dirty bottles of dangerous chemicals and bring them to a station where they are cleaned to avoid scientists having to manually carry dangerous substances around the laboratory.
+
+\
+
+I have learned many useful skills from this FYP project including:
+
+1. Programming in C (Arduino)
+2. Electrical wiring
+3. Time management skills
+4. Project organisational skills
+5. Teamwork skills
+
+One very interesting thing about my FYP project was learning how to use [**mecanum wheels**](https://seamonsters-2605.github.io/archive/mecanum/){target="_blank"} for a moving robot. It caught my interest as I have never thought that a wheeled robot could have that much flexibility in its movement before. I made full use of it in my project to ensure smooth and efficient movement.
+
+![](imgs/mecanum_wheels.jpeg)

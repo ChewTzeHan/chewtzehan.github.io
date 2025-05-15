@@ -7,7 +7,7 @@ Other than collecting cat soft toys, I tend to mainly spend my free time playing
 
 \
 
-A small snippet:
+A table showing my recent entries:
 
 | Type | Name | Date Finished |
 |------|------|---------------|
@@ -15,3 +15,5 @@ A small snippet:
 | Game | Persona 5 Royal | April 7, 2025 |
 | Book | Vexations of a Shut-In Vampire Princess | March 23, 2025 |
 | Game | Xenoblade Chronicles 2: Torna the golden country | January 10, 2025 |
+| Game | Don't starve Together | December 25, 2024 |
+| Game | Skullgirls | September 19, 2024 |
